@@ -113,8 +113,6 @@ LendSight/
     └── Overview.png
 ```
 
-*The screenshot filenames above are suggested names. Use the actual filenames present in your Screenshots folder.*
-
 ## 📁 Dataset
 
 The project uses a structured loan dataset containing fields associated with loan applications, borrowers, employment, loan terms, interest rates, and repayment information.
