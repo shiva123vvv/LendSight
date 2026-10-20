@@ -179,7 +179,7 @@ The report is an educational analytics project. It does not make automated credi
 Add your Summary page screenshot to the `Screenshots` folder and use the following Markdown:
 
 ```markdown
-![LendSight Summary Dashboard](Screenshots/Summary.png)
+![LendSight Summary Dashboard](Screenshots/dashboard.png)
 ```
 
 ### Overview Dashboard
@@ -187,7 +187,7 @@ Add your Summary page screenshot to the `Screenshots` folder and use the followi
 Add your Overview page screenshot and use:
 
 ```markdown
-![LendSight Overview Dashboard](Screenshots/Overview.png)
+![LendSight Overview Dashboard](Screenshots/overview.png)
 ```
 
 These images make it easier for visitors to understand the project before opening Power BI Desktop.
