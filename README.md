@@ -172,17 +172,17 @@ The report is an educational analytics project. It does not make automated credi
 5. Navigate between the Summary and Overview pages.
 6. Interact with the report's filters and visuals to explore the data.
 
+
 ## 📷 Dashboard Screenshots
 
 ### Summary Dashboard
 
-![LendSight Summary Dashboard]
-(https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/dashboard.png)
+![LendSight Summary Dashboard](https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/dashboard.png)
 
 ### Overview Dashboard
 
-![LendSight Loan Portfolio Overview]
-(https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/overview.png)
+![LendSight Loan Portfolio Overview](https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/overview.png)
+
 
 ## 📚 Skills Demonstrated
 
