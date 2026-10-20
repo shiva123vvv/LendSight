@@ -176,21 +176,15 @@ The report is an educational analytics project. It does not make automated credi
 
 ### Summary Dashboard
 
-Add your Summary page screenshot to the `Screenshots` folder and use the following Markdown:
-
 ```markdown
-![LendSight Summary Dashboard](Screenshots/dashboard.png)
+![LendSight Summary Dashboard](https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/dashboard.png)
 ```
 
 ### Overview Dashboard
 
-Add your Overview page screenshot and use:
-
 ```markdown
-![LendSight Overview Dashboard](Screenshots/overview.png)
+![LendSight Loan Portfolio Overview](https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/overview.png)
 ```
-
-These images make it easier for visitors to understand the project before opening Power BI Desktop.
 
 ## 📚 Skills Demonstrated
 
