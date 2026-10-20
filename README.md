@@ -177,13 +177,15 @@ The report is an educational analytics project. It does not make automated credi
 ### Summary Dashboard
 
 ```markdown
-![LendSight Summary Dashboard](https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/dashboard.png)
+![LendSight Summary Dashboard]
+(https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/dashboard.png)
 ```
 
 ### Overview Dashboard
 
 ```markdown
-![LendSight Loan Portfolio Overview](https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/overview.png)
+![LendSight Loan Portfolio Overview]
+(https://raw.githubusercontent.com/shiva123vvv/LendSight/main/Screenshots/overview.png)
 ```
 
 ## 📚 Skills Demonstrated
